@@ -1,0 +1,15 @@
+obtain ladder
+place ladder under lightbulb
+obtain new lightbulb
+unpackage light bulb
+step up on ladder
+twist light bulb left until its removed from socket
+insert new lightbulb into socket
+turn lightbulb to the right until its secured
+step down from ladder
+discard bad bulb
+put away ladder
+
+materials needed:
+ladder
+new lightbulb

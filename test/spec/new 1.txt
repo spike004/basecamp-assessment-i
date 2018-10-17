@@ -4,7 +4,7 @@ var myName = " Robert Irving "; // CODE HERE
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
-var faveNum = 5; // CODE HERE
+var faveNum = " 5 "; // CODE HERE
 
 // #3 create a variable called 'lovesCode' and set it to true
 
@@ -46,25 +46,24 @@ if (age > 16 ){ canDrive = true;
 var colorResponse;
 
 var responseCreator = function (param) {
-if (param = ' green ' ) {
-   colorResponse = ' Green is okay ';
-   console.log(colorResponse);
+if (responseCreator = ' green ' ) {
+  var colorResponse = ' Green is okay ';
 }
-else if (param = ' red ' ) {
-   colorResponse = ' I heart red ';
-   console.log(colorResponse);
+if (responseCreator = ' red ' ) {
+  var colorResponse = ' I heart red ';
 }
-else {console.log (' What is your favorite color? ') }
+else {colorResponse = ' What is your favorite color? '; }
+return colorResponse;
 }// CODE HERE
 
 
 
 // #9 Create a function called 'sum' that takes in one parameter and returns the sum of that parameter added it itself.
 
-function sum(a) {
-  return(a + a);
+function sum(a,b) {
+  return a + b;
 }
-sum(5);
+sum(5,6)
 // CODE HERE
 
 // #10 Create a function called 'greeter' that takes in two parameters, name and number. Have 'greeter' return a string that says something like this 'Hi! I am Bryan and I am 28 years old" but with the appropriate values..
